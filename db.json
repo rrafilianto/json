@@ -9,6 +9,18 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "items": [
+      {
+        "created_at": "2022-09-01",
+        "directorate": "IT",
+        "fptk_number": "7763-d239-asd2-hb23",
+        "id": "kjb4-12hb-4ur3-oi41-akj2",
+        "job_description": "wew",
+        "location": "Jakarta",
+        "position": "Frontend",
+        "status": "approve",
+        "total_request": 0
+      }
+    ]
   }
 }
