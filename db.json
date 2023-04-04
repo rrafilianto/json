@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "items": "wew"
+    "name": "typicode"
   },
   "currency": {
     "date": "2018-12-14",
